@@ -8,6 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		4F72FF92FB751FBD287C9051 /* Pods_TestTask.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18609F8866C103B03681F062 /* Pods_TestTask.framework */; };
+		5F03CF5125922F7F0068A072 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF4D25922F7E0068A072 /* Poppins-Medium.ttf */; };
+		5F03CF5225922F7F0068A072 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF4E25922F7E0068A072 /* Poppins-Regular.ttf */; };
+		5F03CF5325922F7F0068A072 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF4F25922F7E0068A072 /* Poppins-Light.ttf */; };
+		5F03CF5425922F7F0068A072 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF5025922F7F0068A072 /* Poppins-Bold.ttf */; };
+		5F03CF5825922FCF0068A072 /* LayoutUI.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF5725922FCF0068A072 /* LayoutUI.storyboard */; };
+		5F03CF6425923A810068A072 /* VerticalProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF6325923A810068A072 /* VerticalProgressBar.swift */; };
+		5F03CF6C259240190068A072 /* CarouselLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF6B259240190068A072 /* CarouselLayout.swift */; };
+		5F03CF6F259240F30068A072 /* RegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF6E259240F30068A072 /* RegistrationVC.swift */; };
+		5F03CF73259243F70068A072 /* DashboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF72259243F70068A072 /* DashboardVC.swift */; };
+		5F03CF7725924A3B0068A072 /* DashboardCVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF7525924A3B0068A072 /* DashboardCVCell.swift */; };
+		5F03CF7825924A3B0068A072 /* DashboardCVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF7625924A3B0068A072 /* DashboardCVCell.xib */; };
+		5F03CF7B259250770068A072 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF7A259250770068A072 /* CircleView.swift */; };
+		5F03CF7F259254B10068A072 /* SaleResultTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF7D259254B10068A072 /* SaleResultTVCell.swift */; };
+		5F03CF80259254B10068A072 /* SaleResultTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F03CF7E259254B10068A072 /* SaleResultTVCell.xib */; };
+		5F03CF87259259350068A072 /* TotalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F03CF86259259350068A072 /* TotalVC.swift */; };
 		5F06AAB12591DE4800F975A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F06AAB02591DE4800F975A8 /* AppDelegate.swift */; };
 		5F06AAB52591DE4800F975A8 /* PhoneListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F06AAB42591DE4800F975A8 /* PhoneListVC.swift */; };
 		5F06AAB82591DE4800F975A8 /* FuncUI.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F06AAB62591DE4800F975A8 /* FuncUI.storyboard */; };
@@ -28,6 +43,21 @@
 
 /* Begin PBXFileReference section */
 		18609F8866C103B03681F062 /* Pods_TestTask.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestTask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F03CF4D25922F7E0068A072 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		5F03CF4E25922F7E0068A072 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		5F03CF4F25922F7E0068A072 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		5F03CF5025922F7F0068A072 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		5F03CF5725922FCF0068A072 /* LayoutUI.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LayoutUI.storyboard; sourceTree = "<group>"; };
+		5F03CF6325923A810068A072 /* VerticalProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalProgressBar.swift; sourceTree = "<group>"; };
+		5F03CF6B259240190068A072 /* CarouselLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselLayout.swift; sourceTree = "<group>"; };
+		5F03CF6E259240F30068A072 /* RegistrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationVC.swift; sourceTree = "<group>"; };
+		5F03CF72259243F70068A072 /* DashboardVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardVC.swift; sourceTree = "<group>"; };
+		5F03CF7525924A3B0068A072 /* DashboardCVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardCVCell.swift; sourceTree = "<group>"; };
+		5F03CF7625924A3B0068A072 /* DashboardCVCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DashboardCVCell.xib; sourceTree = "<group>"; };
+		5F03CF7A259250770068A072 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		5F03CF7D259254B10068A072 /* SaleResultTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaleResultTVCell.swift; sourceTree = "<group>"; };
+		5F03CF7E259254B10068A072 /* SaleResultTVCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SaleResultTVCell.xib; sourceTree = "<group>"; };
+		5F03CF86259259350068A072 /* TotalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalVC.swift; sourceTree = "<group>"; };
 		5F06AAAD2591DE4800F975A8 /* TestTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F06AAB02591DE4800F975A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F06AAB42591DE4800F975A8 /* PhoneListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneListVC.swift; sourceTree = "<group>"; };
@@ -70,6 +100,60 @@
 			path = Extension;
 			sourceTree = "<group>";
 		};
+		5F03CF4B25922F430068A072 /* Layout Module */ = {
+			isa = PBXGroup;
+			children = (
+				5F03CF5625922FBE0068A072 /* Interface */,
+				5F03CF4C25922F560068A072 /* Fonts */,
+				5F03CF82259258F40068A072 /* Controller */,
+				5F03CF84259258FE0068A072 /* View */,
+			);
+			path = "Layout Module";
+			sourceTree = "<group>";
+		};
+		5F03CF4C25922F560068A072 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				5F03CF5025922F7F0068A072 /* Poppins-Bold.ttf */,
+				5F03CF4F25922F7E0068A072 /* Poppins-Light.ttf */,
+				5F03CF4D25922F7E0068A072 /* Poppins-Medium.ttf */,
+				5F03CF4E25922F7E0068A072 /* Poppins-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		5F03CF5625922FBE0068A072 /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				5F03CF5725922FCF0068A072 /* LayoutUI.storyboard */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		5F03CF82259258F40068A072 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5F03CF6E259240F30068A072 /* RegistrationVC.swift */,
+				5F03CF72259243F70068A072 /* DashboardVC.swift */,
+				5F03CF86259259350068A072 /* TotalVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5F03CF84259258FE0068A072 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5F03CF6B259240190068A072 /* CarouselLayout.swift */,
+				5F03CF6325923A810068A072 /* VerticalProgressBar.swift */,
+				5F03CF7525924A3B0068A072 /* DashboardCVCell.swift */,
+				5F03CF7625924A3B0068A072 /* DashboardCVCell.xib */,
+				5F03CF7A259250770068A072 /* CircleView.swift */,
+				5F03CF7D259254B10068A072 /* SaleResultTVCell.swift */,
+				5F03CF7E259254B10068A072 /* SaleResultTVCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		5F06AAA42591DE4800F975A8 = {
 			isa = PBXGroup;
 			children = (
@@ -92,6 +176,7 @@
 			isa = PBXGroup;
 			children = (
 				5F06AAB02591DE4800F975A8 /* AppDelegate.swift */,
+				5F03CF4B25922F430068A072 /* Layout Module */,
 				5F0A106B2591E2E400E7BDC3 /* Func module */,
 				5F06AABC2591DE4900F975A8 /* Assets.xcassets */,
 				5F06AABE2591DE4900F975A8 /* LaunchScreen.storyboard */,
@@ -204,7 +289,7 @@
 				5F06AAA92591DE4800F975A8 /* Sources */,
 				5F06AAAA2591DE4800F975A8 /* Frameworks */,
 				5F06AAAB2591DE4800F975A8 /* Resources */,
-				2B673BD82AC51950E5B50480 /* [CP] Embed Pods Frameworks */,
+				018CD1EDF9BA8DC78C3330E8 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -252,17 +337,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F03CF5325922F7F0068A072 /* Poppins-Light.ttf in Resources */,
 				5F0A10672591E23400E7BDC3 /* ContactTVCell.xib in Resources */,
+				5F03CF5825922FCF0068A072 /* LayoutUI.storyboard in Resources */,
 				5F06AAC02591DE4900F975A8 /* LaunchScreen.storyboard in Resources */,
+				5F03CF5425922F7F0068A072 /* Poppins-Bold.ttf in Resources */,
 				5F06AABD2591DE4900F975A8 /* Assets.xcassets in Resources */,
+				5F03CF80259254B10068A072 /* SaleResultTVCell.xib in Resources */,
+				5F03CF5225922F7F0068A072 /* Poppins-Regular.ttf in Resources */,
+				5F03CF7825924A3B0068A072 /* DashboardCVCell.xib in Resources */,
 				5F06AAB82591DE4800F975A8 /* FuncUI.storyboard in Resources */,
+				5F03CF5125922F7F0068A072 /* Poppins-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		2B673BD82AC51950E5B50480 /* [CP] Embed Pods Frameworks */ = {
+		018CD1EDF9BA8DC78C3330E8 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -308,17 +400,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F03CF7B259250770068A072 /* CircleView.swift in Sources */,
+				5F03CF87259259350068A072 /* TotalVC.swift in Sources */,
 				5F0A10882591E77900E7BDC3 /* NetworkManager.swift in Sources */,
+				5F03CF6C259240190068A072 /* CarouselLayout.swift in Sources */,
 				5F0A10752591E41000E7BDC3 /* PersistanceManager.swift in Sources */,
 				5F31716625921DAD00A5C9CC /* ContactDetailVC.swift in Sources */,
 				5F0A108B2591F6C900E7BDC3 /* UDKey.swift in Sources */,
 				5F0A10842591E72A00E7BDC3 /* Contact+CoreDataClass.swift in Sources */,
+				5F03CF7F259254B10068A072 /* SaleResultTVCell.swift in Sources */,
 				5F31716925921EF500A5C9CC /* Data+Extension.swift in Sources */,
 				5F0A10662591E23400E7BDC3 /* ContactTVCell.swift in Sources */,
+				5F03CF7725924A3B0068A072 /* DashboardCVCell.swift in Sources */,
 				5F0A10792591E4DF00E7BDC3 /* ContactModel.swift in Sources */,
 				5F0A10852591E72A00E7BDC3 /* Contact+CoreDataProperties.swift in Sources */,
 				5F06AABB2591DE4800F975A8 /* TestTask.xcdatamodeld in Sources */,
+				5F03CF6425923A810068A072 /* VerticalProgressBar.swift in Sources */,
 				5F06AAB52591DE4800F975A8 /* PhoneListVC.swift in Sources */,
+				5F03CF73259243F70068A072 /* DashboardVC.swift in Sources */,
+				5F03CF6F259240F30068A072 /* RegistrationVC.swift in Sources */,
 				5F06AAB12591DE4800F975A8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

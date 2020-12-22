@@ -10,5 +10,6 @@ target 'TestTask' do
 pod 'Alamofire'
 pod 'Kingfisher'
 pod 'SwiftyJSON'
+pod 'IQKeyboardManagerSwift'
 
 end
